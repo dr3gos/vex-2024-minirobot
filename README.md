@@ -1,1 +1,1 @@
-Source code for the minirobot used by my school in the Vex Over Under 2023-2024 competition.
+Use as is. The code is good and autonomous is very predictable/consistent.
