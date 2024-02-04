@@ -144,7 +144,7 @@ def move(direction, power, duration):
         rightRear.stop()
 
 def autonomous():
-    move(1, 30, 2000)
+    move(1, 30, 800)
 
 def lifting():
     if controller_1.buttonR1.pressing():
